@@ -22,5 +22,7 @@ Few scripts for just debugging or coming out of some weird scenarios
     a. du usage of extra files.
     b. loaction of extra files.
     c. gfid of extra files.
+   Limitation:
+    If geo-rep is stopped or in history betwwen slave and master it will record all renames as diffrenet files.
 
 
