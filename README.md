@@ -14,3 +14,13 @@ Few scripts for just debugging or coming out of some weird scenarios
    [WIP] Do not use it without contecting OWNER. This script removes data!!!! 
    This is a helper script to remove extra file.
 
+
+3. compare_master_slave.sh
+
+   Description:
+   Tis comapres master and slave gluster volume and gives 3 output-
+    a. du usage of extra files.
+    b. loaction of extra files.
+    c. gfid of extra files.
+
+
