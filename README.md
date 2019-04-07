@@ -2,8 +2,15 @@
 Few scripts for just debugging or coming out of some weird scenarios
 1.  kill-snapshot-bricks.sh
 
-Description :- 
+    Description:
     script to deactivate activated snapshot manully in glusterfs
     This script will deactivate activated snapshot manully in glusterfs.
     There is no delete operation used is this script so this probably will not
     cause data loss.
+
+2. Remove_missing_file.sh
+   
+   Description:
+   [WIP] Do not use it without contecting OWNER. This script removes data!!!! 
+   This is a helper script to remove extra file.
+
